@@ -1,0 +1,185 @@
+
+ = the unofficial Scrum Checklist =
+ * version: 2.1 (2009-08-17)
+ * http://www.crisp.se/scrum/checklist
+ * Henrik Kniberg
+ * 日本語訳: 川口恭伸
+
+ == The bottom line / 基本項目 ==
+ * If you achieve these you can ignore the rest of the checklist. Your processs is fine.
+ * この項目ができていたら、残りのチェックリスト項目は無視していい。あなたのプロセスはうまくいっている。
+   * [ ] Deliveling '''working, tested software''' every 4 weeks or less
+   * [ ] 定期的(4週間以内)に '''動作する、テスト済みのソフトウェア''' を提供している
+   * [ ] Delivering what the '''business nees''' most
+   * [ ] '''ビジネスニーズ''' に基づいたものを最優先して提供している
+   * [ ] Process is '''continuously improving'''
+   * [ ] プロセスは '''継続的に改善している'''
+
+ == Core Scrum / コア・スクラム ==
+ * These are central to Scrum. Without these you probably shouldn't call it Scrum.
+ * スクラムの主要要素。これらなしに、それをスクラムと呼ぶことはできないだろう
+   * [ ] Clearly defined '''product owner (PO)'''
+   * [ ] はっきりと定義された '''プロダクトオーナ(PO)'''
+     * [ ] PO is '''empowered''' to prioritize
+     * [ ] プロダクトオーナは、優先度付けをする '''権限がある'''
+     * [ ] PO has '''knowledge''' to priortize.
+     * [ ] プロダクトオーナは、優先度付けをする '''知識がある'''
+     * [ ] PO has direct '''contact with team'''
+     * [ ] プロダクトオーナは、直接 '''チームと対話している'''
+     * [ ] PO speaks '''with one voice''' (in case PO is a team)
+     * [ ] プロダクトオーナは、'''同じことをいう''' (チームにプロダクトオーナが複数人いる場合)
+   * [ ] Team has a '''sprint backlog'''
+   * [ ] チームは '''スプリントバックログ''' を持っている
+     * [ ] Highly '''visible'''
+     * [ ] '''見える化されている'''
+     * [ ] '''Updated''' daily
+     * [ ] 毎日 '''更新されている'''
+     * [ ] Owned exclusively by the '''team'''
+     * [ ] 完全に '''チーム''' の持ち物である
+   * [ ] '''Daily Scrum''' happens
+   * [ ] '''デイリースクラム''' を行えている
+     * [ ] Whole team participates
+     * [ ] チームの全員が参加している　
+     * [ ] Problem & impediments are surfaced
+     * [ ] 問題と障害を表面化できている
+   * [ ] '''Demo''' happens after every sprint
+   * [ ] 毎スプリント終了後に'''デモ''' を行えている
+     * [ ] Shows '''working, testes software'''
+     * [ ] '''動作する、テスト済みのソフトウェア''' を見せている
+     * [ ] '''Feedback''' received from stakeholders & PO
+     * [ ] ステークホルダとプロダクトオーナから '''フィードバック''' をもらっている
+   * [ ] Have '''Definition of Done (DoD)'''
+   * [ ] '''完了の定義(DoD)''' を持っている
+     * [ ] DoD '''achievable''' within each iteration
+     * [ ] 完了の定義は、イテレーションごとに '''達成可能'''なものになっている
+     * [ ] Team '''respects''' DoD
+     * [ ] チームは 完了の定義を '''尊重している'''
+   * [ ] '''Retrospective''' happen after every sprint
+   * [ ] 要所ごとに '''ふりかえり''' を行えている
+     * [ ] Results in concrete improvement '''proposals'''
+     * [ ] 結果として、具体的な改善 '''提案'''ができている
+     * [ ] Some proposals actually get '''implemented'''
+     * [ ] いくつかの提案は、現実に'''実現された'''
+     * [ ] '''Whole team + PO''' participates
+     * [ ] '''チームとプロダクトオーナが全員''' 参加している
+   * [ ] PO has a '''product backlog(PBL)'''
+   * [ ] プロダクトオーナは '''プロダクトバックログ(PBL)''' を持っている
+     * [ ] Top items are '''prioritized''' by business value
+     * [ ] 最上位のいくつかはビジネス価値に基づいて '''優先度付け''' されている
+     * [ ] Top items are '''estimated'''
+     * [ ] 最上位のいくつかは '''見積り済みである'''
+     * [ ] '''Estimates written by the team'''
+     * [ ] '''見積りはチームによって記述されている'''
+     * [ ] Top items in '''PBL small enough to fit in a sprint'''
+     * [ ] プロダクトバックログの最上位のいくつかは、１つのスプリントに '''収まる程度に小さい'''
+     * [ ] PO understands '''purpose''' of all backlog items
+     * [ ] プロダクトオーナは、すべてのバックログ項目の '''目的''' を理解している
+   * [ ] Have '''sprint planning meetings'''
+   * [ ] '''スプリント計画ミーティング'''を持っている
+     * [ ] '''PO participates'''
+     * [ ] '''プロダクトオーナが参加している'''
+     * [ ] PO brings '''up-to-date PBL'''
+     * [ ] プロダクトオーナが '''最新のプロダクトバックログ''' を提出している
+     * [ ] '''Whole team''' participates
+     * [ ] '''チーム全員''' が参加している
+     * [ ] Results in a '''sprint plan'''
+     * [ ] 結果が '''スプリント計画''' に盛り込まれている
+     * [ ] Whole team believes plan is '''achievable'''
+     * [ ] チーム全員が計画を '''達成可能''' であると考えている
+     * [ ] PO '''satisfied with priorities'''
+     * [ ] プロダクトオーナは '''優先度に基づいて納得している'''
+   * [ ] Timeboxed '''iterations'''
+   * [ ] タイムボックス化した '''イテレーション'''
+     * [ ] Iteration length '''4 weeks or less'''
+     * [ ] イテレーションの長さは '''4週間以内'''
+     * [ ] Always '''end on time'''
+     * [ ] 常に '''期限どおりに終了する'''
+     * [ ] Team '''not disrupted or controlled''' by outsiders	
+     * [ ] チームは部外者から '''引きはがされたり、コントロールされたりしていない'''
+     * [ ] Team usually '''delivers what they commited to'''
+     * [ ] チームは通常 '''何をコミットするかを明言している'''
+   * [ ] Team members '''sit together'''
+   * [ ] チームメンバは '''同じ場所に机がある'''
+     * [ ] '''Max 9 people''' per team
+     * [ ] ひとつのチームは'''最大でも9人'''
+
+ == Recommended but not always necessary ==
+ * Most of these will usually be needed, but not always all of them. Experiment!
+ * ふつう、これらのほとんどは必要になるけど、すべてが常に必要というわけではない。試してみよう!
+   * [ ] Team '''has all skills''' needed to bring backlog items to Done
+   * [ ] チームは、バックログ項目を完了させるために必要な '''すべてのスキルを持っている'''
+   * [ ] Team members '''not locked into specific roles'''
+   * [ ] チームメンバは '''特定の役割に固定されていない'''
+   * [ ] Iterations that are '''doomed to fail''' are terminated early
+   * [ ] '''失敗する運命の''' イテレーションは早めに強制終了している
+   * [ ] PO has '''product vision''' that is in sync with PBL
+   * [ ] プロダクトオーナは プロダクトバックログと同期した '''プロダクトビジョン''' をもっている
+   * [ ] PBL and product vision is '''highly visible'''
+   * [ ] プロダクトバックログとプロダクトビジョンは '''見える化されている'''
+   * [ ] Everyone on the '''team participates in estimating'''
+   * [ ] チームの '''全員が見積もりに参加している'''
+   * [ ] '''PO available''' when team is estimating
+   * [ ] チームが見積っている間は '''プロダクトオーナは待機している'''
+   * [ ] Estimate '''relative size''' (story points) rather than time
+   * [ ] 時間ではなく、'''相対規模'''(ストーリーポイント) で見積っている
+   * [ ] Whole team knows top 1-3 '''impediments'''
+   * [ ] チーム全員がトップ3の'''障害'''を知っている
+     * [ ] '''SM has strategy''' for how to fix top impediment
+     * [ ] 上位の障害を解決するやり方について、'''スクラムマスタは戦略をもっている'''
+     * [ ] '''SM forcusing''' on removing impediments
+     * [ ] 障害を取り除くことに '''スクラムマスタが集中している'''
+     * [ ] '''Escalated to management''' when team can't solve
+     * [ ] チームが解決できないときは '''管理層にエスカレーションされている'''
+   * [ ] Team has a '''Scrum Master (SM)'''
+   * [ ] チームは '''スクラムマスタ(SM)'''を持っている
+     * [ ] SM '''sits with the team'''
+     * [ ] スクラムマスタは、'''チームと同じ場所に机がある'''
+   * [ ] PBL items '''are broken into tasks''' within a sprint
+   * [ ] プロダクトバックログは、スプリント中は '''タスクにブレークダウンされている'''
+     * [ ] Sprint tasks are '''estimated'''
+     * [ ] スプリントタスクは '''見積り済み''' である
+     * [ ] Estimates for ongoing tasks are '''updated daily'''
+     * [ ] 実行中のタスクの見積りは '''毎日更新''' されている
+   * [ ] '''Velocity''' is measured
+   * [ ] '''ベロシティ''' が計測されている
+     * [ ] All Items in sprint plan have an '''estimate'''
+     * [ ] スプリント計画のすべての項目には '''見積り''' がある
+     * [ ] PO uses velocity for '''release planning'''
+     * [ ] プロダクトオーナは '''リリース計画''' にベロシティを用いている
+     * [ ] Velocity only includes items that are '''Done'''
+     * [ ] ベロシティは '''完了した''' 項目だけをカウントしている
+   * [ ] Team has a '''sprint burndown chart'''
+   * [ ] チームは '''スプリントバーンダウンチャート''' を持っている
+     * [ ] Highly '''visible'''
+     * [ ] '''見える化''' されている
+     * [ ] '''Updated''' daily
+     * [ ] 毎日 '''更新されている'''
+   * [ ] '''Daily Scrum''' is every day, same time & place
+   * [ ] '''デイリースクラム'''は、毎日・同じ時間・同じ場所で行っている
+     * [ ] '''PO participates''' at least a few times per week
+     * [ ] 最低でも週の何日かは '''プロダクトオーナが参加している'''
+     * [ ] Max '''15 miniutes'''
+     * [ ] 長くても '''15分'''
+     * [ ] Each team member '''knows what the others are doing'''
+     * [ ] 各チームメンバは '''他のメンバが何をしているか知っている'''
+
+ == Scaling / 規模 ==
+ * These are pretty fundamental to any Scrum scaling effort.
+ * これらは、スクラムの規模を拡大するためにとても基本的なことだ
+   * [ ] You have a '''Chief Product Owner''' (if many POs)
+   * [ ] '''チーフプロダクトオーナ'''がいる (もし、たくさんのプロダクトオーナがいるなら)
+   * [ ] Dependent teams do '''Scrum of Scrums'''
+   * [ ] 各チームは '''スクラムのスクラム''' 
+   * [ ] Dependent teams '''integrate within each sprint'''
+   * [ ] 各チームは '''スプリントごとに結合を行っている'''
+
+ == Positive indicators ==
+ * Leading indicators of a good Scrum implementation.
+ * よいスクラムを実現するために必要なポイント
+   * [ ] '''Having fun! ''' High energy level.
+   * [ ] '''楽しんで! ''' 高いエナジーレベルで
+   * [ ] '''Overtime work is rare''' and happend voluntarily
+   * [ ] '''残業は稀にしかなく'''、自発的に行われる
+   * [ ] Discussing, criticizing, and '''experimenting''' with the process
+   * [ ] プロセスについて議論、批評、'''実験'''を行っている
+ 
