@@ -1,0 +1,39 @@
+What is this? Who is it for?
+
+The Scrum checklist is a simple tool to help you get started with Scrum, or assess your current implementation of Scrum.
+
+Note that these aren't rules. They are guidelines. A team of two might decide to skip the daily Scrum, since they are pair programming all day anyway and might not need a separate meeting to synchronize. Fine. Then they have intentionally skipped a Scrum practice but ensured that the underlying purpose of the scrum practice has been fulfilled in another way. That is what counts!
+
+If you are doing Scrum it might be interesting to have the team go through this list at a retrospective. As a discussion tool, not an evaluation tool.
+
+How do I use it?
+
+Joe: "For this retrospective, I've brought a useful little checklist. Is there any of this stuff that we aren't doing?”
+
+Lisa: "Hmmm, let's see. Well, we're certainly missing Definition of Done, and we don't measure Velocity.”
+
+Joe: "Well, 'Definition of Done' is listed under 'Core Scrum' so it seems pretty important! Velocity is listed under 'Recommended but not always necessary' so let's wait with that and start with the core stuff.
+
+Lisa: "Look, we're also missing 'Delivering working, tested software every 4 weeks or less'. That's listed under 'The bottom line'! Makes sense, because marketing is always complaining about that!”
+
+
+
+Joe: "Maybe a concept like 'Definition of Done' could help us take on smaller bits per sprint and get stuff releasable more often?’
+
+Lisa: "Good idea, let's give it a shot.”
+
+How do I NOT use it?
+
+Big Boss: "OK team, time to see how Scrum compliant you are. Fill in this checklist please.”
+
+Joe: "Boss, I'm happy to report that we are doing everything. Well, everything except Sprint burndown charts”
+
+Big Boss: "Bad, bad team! It says here that you should be doing those... er...  sprint burning thingies! I want them!" 
+
+Lisa: "But we do 2 week sprints and almost always manage to deliver what we commit to, and the customers are happy. Sprint burndown charts wouldn't add value at this stage.”
+
+Big Boss: "Well it says here that you should do it, so don't let me catch you cheating again, or I'll call in the Scrum Police!”
+
+Is this an official checklist?
+
+No. The checklist reflects my personal & subjective opinion about what really matters in Scrum. I've spent years helping companies get started with Scrum and met hundreds of other practitioners, trainers, and coaches; and I've found that checklists like this can be helpful, if used correctly.
